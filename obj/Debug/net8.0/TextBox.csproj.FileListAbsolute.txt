@@ -1,0 +1,14 @@
+C:\Users\User\RiderProjects\TextBox\obj\Debug\net8.0\TextBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\TextBox\obj\Debug\net8.0\TextBox.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\TextBox\obj\Debug\net8.0\TextBox.AssemblyInfo.cs
+C:\Users\User\RiderProjects\TextBox\obj\Debug\net8.0\TextBox.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\TextBox\bin\Debug\net8.0\TextBox.exe
+C:\Users\User\RiderProjects\TextBox\bin\Debug\net8.0\TextBox.deps.json
+C:\Users\User\RiderProjects\TextBox\bin\Debug\net8.0\TextBox.runtimeconfig.json
+C:\Users\User\RiderProjects\TextBox\bin\Debug\net8.0\TextBox.dll
+C:\Users\User\RiderProjects\TextBox\bin\Debug\net8.0\TextBox.pdb
+C:\Users\User\RiderProjects\TextBox\obj\Debug\net8.0\TextBox.dll
+C:\Users\User\RiderProjects\TextBox\obj\Debug\net8.0\refint\TextBox.dll
+C:\Users\User\RiderProjects\TextBox\obj\Debug\net8.0\TextBox.pdb
+C:\Users\User\RiderProjects\TextBox\obj\Debug\net8.0\TextBox.genruntimeconfig.cache
+C:\Users\User\RiderProjects\TextBox\obj\Debug\net8.0\ref\TextBox.dll
