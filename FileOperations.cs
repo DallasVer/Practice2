@@ -16,11 +16,18 @@ public class FileOperations
   }
   public void ReadFile() {
     if (fileContent != null) {
-      Console.Write("Содуржимое: " + fileContent);
+
+      Console.Write("Файл содержит \n" + fileContent);
+
     }
     else {
       Console.Write("Файл пуст, либо загружен некорректно!");
     }
+  }
+
+  public void modyFile(string newContent) {
+    fileContent = newContent;
+    Console.Write("Файл изменён.");
   }
   
 }

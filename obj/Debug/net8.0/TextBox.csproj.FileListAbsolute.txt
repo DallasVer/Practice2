@@ -12,3 +12,4 @@ C:\Users\User\RiderProjects\TextBox\obj\Debug\net8.0\refint\TextBox.dll
 C:\Users\User\RiderProjects\TextBox\obj\Debug\net8.0\TextBox.pdb
 C:\Users\User\RiderProjects\TextBox\obj\Debug\net8.0\TextBox.genruntimeconfig.cache
 C:\Users\User\RiderProjects\TextBox\obj\Debug\net8.0\ref\TextBox.dll
+C:\Users\User\RiderProjects\TextBox\obj\Debug\net8.0\TextBox.sourcelink.json

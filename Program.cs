@@ -25,6 +25,23 @@ public class Program
           Console.Clear();
           operations.ReadFile();
           break;
+        
+        case 3:
+          Console.Clear();
+          Console.WriteLine("Введите новый текст");
+          string newText = Console.ReadLine();
+          operations.modyFile(newText);
+          break;
+        case 4:
+          Console.Clear();
+          if (filePath == " ") {
+            Console.WriteLine("Нет файлв для его изменения.");
+            break;
+          }
+          operations.SaveFile();
+          break;
+        case 5:
+          return;
       
         default: 
           Console.Clear();
