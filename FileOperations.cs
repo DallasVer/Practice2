@@ -22,5 +22,10 @@ public class FileOperations
       Console.Write("Файл пуст, либо загружен некорректно!");
     }
   }
+
+  public void modyFile(string newContent) {
+    fileContent = newContent;
+    Console.Write("Файл изменён.");
+  }
   
 }
