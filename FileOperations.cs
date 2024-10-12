@@ -27,5 +27,14 @@ public class FileOperations
     fileContent = newContent;
     Console.Write("Файл изменён.");
   }
-  
+
+  public void SaveFile() {
+    if (fileContent != null) {
+      File.WriteAllText(filePath, fileContent);
+      Console.WriteLine("Файл сохранён");
+    }
+    else {
+      Console.WriteLine("Неудалось сохранить файл");
+    }
+  }
 }
