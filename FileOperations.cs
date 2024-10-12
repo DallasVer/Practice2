@@ -16,7 +16,7 @@ public class FileOperations
   }
   public void ReadFile() {
     if (fileContent != null) {
-      Console.Write(fileContent);
+      Console.Write("Содуржимое: " + fileContent);
     }
     else {
       Console.Write("Файл пуст, либо загружен некорректно!");
