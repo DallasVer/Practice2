@@ -14,4 +14,13 @@ public class FileOperations
       return "Ошибка файл не найден!";
     }  
   }
+  public void ReadFile() {
+    if (fileContent != null) {
+      Console.Write(fileContent);
+    }
+    else {
+      Console.Write("Файл пуст, либо загружен некорректно!");
+    }
+  }
+  
 }
